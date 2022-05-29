@@ -1,24 +1,16 @@
 ## Know Me More
 
-<style>
-  .icon{
-    padding: 4px; 
-    align: left;
-    width: 32px
-  }
-</style>
-
 <a target="_blank" href="https://virgool.io/@hamidb80">
-  <img class="icon" alt="Hamid's Virgool" src="img/virgool.png" />
+  <img align="left" width="32px" alt="Hamid's Virgool" src="img/virgool.png" />
 </a>
 <a target="_blank" href="https://www.aparat.com/hamidb80">
-  <img class="icon" alt="Hamid's Aparat" src="img/aparat.png" />
+  <img align="left" width="32px" alt="Hamid's Aparat" src="img/aparat.png" />
 </a>
 <a target="_blank" href="https://www.linkedin.com">
-  <img class="icon" alt="Hamid's" src="img/linkedin.svg" />
+  <img align="left" width="32px" alt="Hamid's" src="img/linkedin.svg" />
 </a> 
 <a target="_blank" href="https://t.me/hamidb80">
-  <img class="icon" alt="Hamid's Telegram" src="img/tg.svg" />
+  <img align="left" width="32px" alt="Hamid's Telegram" src="img/tg.svg" />
 </a>
 
 <br/>
