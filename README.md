@@ -1,4 +1,4 @@
-## Know Me More
+## Know More About Me 
 
 <a target="_blank" href="https://virgool.io/@hamidb80">
   <img align="left" width="32px" alt="Hamid's Virgool" src="img/virgool.png" />
