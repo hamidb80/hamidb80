@@ -1,5 +1,7 @@
 ## Know More About Me 
 
+
+<p align="center">
 <a target="_blank" href="https://virgool.io/@hamidb80">
   <img align="left" width="32px" alt="Hamid's Virgool" src="img/virgool.png" />
 </a>
@@ -12,6 +14,7 @@
 <a target="_blank" href="https://t.me/hamidb80">
   <img align="left" width="32px" alt="Hamid's Telegram" src="img/tg.svg" />
 </a>
+</p>
 
 <br/>
 <br/>
