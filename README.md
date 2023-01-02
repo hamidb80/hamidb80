@@ -36,4 +36,4 @@
 `UQDudFA4cPEO1faYGsSGtbls0OpXdA5RWNMhyKD9akDcl0cD`
 
 ---------------
-## [My Reading List](https://github.com/hamidb80/reading_list)
+## [My List](https://github.com/hamidb80/reading_list)
