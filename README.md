@@ -1,4 +1,8 @@
-## Know More About Me 
+## Personal Info
+- full name [en]: HamidReza BluriKashani
+- full name [fa]: حمیدرضا بلوری کاشانی
+
+## Social Media 
 
 <p align="center">
 <a target="_blank" href="https://virgool.io/@hamidb80">
@@ -36,7 +40,3 @@
 
 ---------------
 ## [My List](https://github.com/hamidb80/reading_list)
-
-## Personal Info
-- full name [en]: HamidReza BluriKashani
-- full name [fa]: حمیدرضا بلوری کاشانی
