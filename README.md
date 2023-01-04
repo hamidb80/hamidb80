@@ -1,6 +1,5 @@
 ## Know More About Me 
 
-
 <p align="center">
 <a target="_blank" href="https://virgool.io/@hamidb80">
   <img align="left" width="32px" alt="Hamid's Virgool" src="img/virgool.png" />
@@ -37,3 +36,7 @@
 
 ---------------
 ## [My List](https://github.com/hamidb80/reading_list)
+
+## Personal Info
+full name [en]: HamidReza BluriKashani
+full name [fa]: حمیدرضا بلوری کاشانی
