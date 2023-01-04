@@ -38,5 +38,5 @@
 ## [My List](https://github.com/hamidb80/reading_list)
 
 ## Personal Info
-full name [en]: HamidReza BluriKashani
-full name [fa]: حمیدرضا بلوری کاشانی
+- full name [en]: HamidReza BluriKashani
+- full name [fa]: حمیدرضا بلوری کاشانی
