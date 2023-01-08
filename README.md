@@ -1,5 +1,5 @@
 ## Personal Info
-- full name [en]: HamidReza BluriKashani
+- full name [en]: Hamid Reza Bluri Kashani
 - full name [fa]: حمیدرضا بلوری کاشانی
 
 ## Social Media 
