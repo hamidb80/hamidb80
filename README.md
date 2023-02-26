@@ -11,7 +11,7 @@
 <a target="_blank" href="https://www.aparat.com/hamidb80">
   <img align="left" width="32px" alt="Hamid's Aparat" src="img/aparat.png" />
 </a>
-<a target="_blank" href="https://www.linkedin.com">
+<a target="_blank" href="https://www.linkedin.com/in/hamid-bluri">
   <img align="left" width="32px" alt="Hamid's" src="img/linkedin.svg" />
 </a> 
 <a target="_blank" href="https://t.me/hamidb80">
