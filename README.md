@@ -4,6 +4,9 @@
 - full name [en]: Hamid Reza Bluri Kashani
 - full name [fa]: حمیدرضا بلوری کاشانی
 
+# Blog
+https://hamidb80.github.io/blog/
+
 ## Github Status
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamidb80&show_icons=true" alt="hamidb80" />
